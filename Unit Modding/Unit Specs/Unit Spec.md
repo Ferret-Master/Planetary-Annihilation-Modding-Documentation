@@ -306,7 +306,13 @@ See https://forums.planetaryannihilation.com/threads/reference-unit-blueprints.4
 
 See https://forums.planetaryannihilation.com/threads/reference-unit-blueprints.47378/ under Headlights
 
-### **testy**
+### **armor_type"**
+
+defines the armor type of a unit, for more info see Armor Types
+
+```json
+"armor_type":"bot"
+```
 
 
 
