@@ -61,3 +61,6 @@ Nuke Launcher
     "default_build_stance": "Continuous"
   },
 ```
+
+### Notes
+For a unit to be launchable by the unit cannon or similar units it needs to be transportable and have an attach point.
